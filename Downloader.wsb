@@ -1,0 +1,11 @@
+<Configuration>
+  <VGpu>Disable</VGpu>
+  <Networking>Enable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>c:\temp</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>

@@ -1,0 +1,6 @@
+<Configuration>
+  <!-- vGPU doesn't work with work computer -->
+  <vGPU>Disable</vGPU>
+  <Networking>Enable</Networking>
+  <VideoInput>Enable</VideoInput>
+</Configuration>
